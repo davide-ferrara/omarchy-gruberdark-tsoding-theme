@@ -11,7 +11,7 @@ This theme, based on the classic "Gruber Darker" palette, is designed for those 
 Run the following command to install the theme directly from GitHub:
 
 ```sh
-omarchy-theme-install https://github.com/davide-ferrara/gruber-tsoding-omarchy-theme
+omarchy-theme-install https://github.com/davide-ferrara/omarchy-gruberdark-tsoding-theme
 ```
 
 This will automatically place the theme in your Omarchy themes directory.
