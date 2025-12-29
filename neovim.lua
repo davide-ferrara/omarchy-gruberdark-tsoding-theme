@@ -79,6 +79,11 @@ return {
         LspInlayHint = { fg = "#52494e", bg = "NONE" },
 
         ["@comment"] = { link = "Comment" },
+
+        -- Fix diff readability
+        DiffAdd = { fg = "#101010" },
+        DiffChange = { fg = "#ffffff" },
+        DiffDelete = { fg = "#ffffff" },
       },
     },
   },
