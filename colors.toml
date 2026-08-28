@@ -1,0 +1,32 @@
+mode = "dark"
+
+# Gruber Darker palette, mapped to Omarchy Quattro's semantic colour roles.
+accent = "#c9ab25"
+selection = "#484848"
+muted = "#565f73"
+
+background = "#181818"
+dark_background = "#101010"
+darker_background = "#0f0f0f"
+lighter_background = "#282828"
+
+foreground = "#e4e4ef"
+dark_foreground = "#565f73"
+light_foreground = "#f4f4ff"
+bright_foreground = "#ffffff"
+
+red = "#c73c3f"
+yellow = "#c9ab25"
+orange = "#cc8c3c"
+green = "#73c936"
+cyan = "#95a99f"
+blue = "#96a6c8"
+magenta = "#9e95c7"
+brown = "#cc8c3c"
+
+bright_red = "#f43841"
+bright_yellow = "#c9ab25"
+bright_green = "#73c936"
+bright_cyan = "#95a99f"
+bright_blue = "#96a6c8"
+bright_magenta = "#9e95c7"

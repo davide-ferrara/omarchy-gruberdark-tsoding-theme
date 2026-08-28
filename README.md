@@ -10,17 +10,30 @@ release is updated for **Omarchy Quattro** and uses its semantic colour roles.
 
 ## What’s included
 
-- Omarchy Quattro colour roles
-- A matching Gruvbox/Gruber Darker Neovim configuration
-- A matching btop theme
-- A distraction-free desktop preview ready for the theme picker
+- Omarchy Quattro colour roles in [`colors.toml`](colors.toml)
+- A matching Gruvbox/Gruber Darker Neovim configuration in [`neovim.lua`](neovim.lua)
+- btop colours in [`btop.theme`](btop.theme)
+- Four hand-picked backgrounds in [`backgrounds/`](backgrounds/)
 
 ## Install
 
+Clone the theme into your local Omarchy themes directory, then apply it:
+
 ```bash
-omarchy theme install https://github.com/davide-ferrara/omarchy-gruberdark-tsoding-theme
+git clone https://github.com/davide-ferrara/omarchy-gruberdark-tsoding-theme.git ~/.config/omarchy/themes/gruber-tsoding
 omarchy theme set gruber-tsoding
 ```
+
+If the theme is already here, just run:
+
+```bash
+omarchy theme set gruber-tsoding
+```
+
+## Preview
+
+`preview.png` is the same desktop screenshot shown above, ready for Omarchy’s
+theme picker.
 
 ## Palette
 
